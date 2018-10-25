@@ -3,7 +3,7 @@ Upload files to different google photo albums based on part of filename between 
 The results will be stored in csv with the tag and shareable url.
 
 
-#Usage
+# Usage
 1. Install required packages from requirments.txt
 `pip install -t requirements.txt`
 2. Create a OAuth token at [https://console.cloud.google.com/apis/credentials ][https://console.cloud.google.com/apis/credentials]
